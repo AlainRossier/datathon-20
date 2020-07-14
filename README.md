@@ -1,9 +1,7 @@
 # Summer Invitational Datathon 2020 - Team 33
 
 ## Folder structure
-
 ```
-. 
 +-- datasets_full
 |   +-- London
 |   +-- Rio
