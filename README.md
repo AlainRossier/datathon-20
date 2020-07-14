@@ -1,7 +1,8 @@
-Summer Invitational Datathon 2020 - Team 33
+# Summer Invitational Datathon 2020 - Team 33
 
-Folder structure
+## Folder structure
 
+```
 . 
 +-- datasets_full
 |   +-- London
@@ -13,4 +14,4 @@ Folder structure
 |   +-- models
 |   +-- visualization
 |   +-- README.md
-
+```
